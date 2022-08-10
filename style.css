@@ -1,0 +1,24 @@
+body {
+	background-color: #8bc6ec;
+	background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.figure-img {
+	margin-bottom: 0;
+}
+
+header h1 {
+	line-height: 40vw;
+	z-index: 10;
+}
+
+main .card {
+	min-height: 350px;
+}
+
+main .card p {
+	min-height: 250px;
+}
